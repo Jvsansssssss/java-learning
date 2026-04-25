@@ -17,7 +17,7 @@ Repositório dedicado ao estudo da linguagem Java, seguindo a metodologia do cur
 - [x] Operador Ternário
 - [x] Estruturas de Repetição
 - [x] Modificadores de Laço
-- [ ] Arrays (Vetores)
+- [ ] Arrays (Vetores) - Próximo Passo...
 - [ ] Arrays Multidimensionais (Matrizes)
 
 ## 🎯 Objetivo Final
