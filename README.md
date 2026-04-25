@@ -1,12 +1,22 @@
-# Java Learning
+# ☕ Maratona Java - DevDojo
 
-Repositório criado para documentar minha evolução em Java.
+Repositório dedicado ao estudo da linguagem Java, seguindo a metodologia do curso **Maratona Java Virado no Jiraya** (DevDojo). O objetivo é construir uma base sólida para atuar como desenvolvedor Backend.
 
-## Conteúdo atual
-- Hello World
-- Operações básicas
-- Tipos primitivos
-- Concatenação de strings
+## 🛠️ Tecnologias e Ferramentas
+* **Java** (JDK 17)
+* **IntelliJ IDEA**
+* **Git/GitHub**
 
-## Objetivo
-Evoluir até desenvolvimento backend com Java (Spring Boot) e projetos reais.
+## 📚 Conteúdo Aprendido
+
+### 1. Introdução e Fundamentos
+- [x] Configuração do Ambiente e Hello World
+- [x] Tipos Primitivos e Convenções de Nomenclatura
+- [x] Operadores Aritméticos, Relacionais e Lógicos
+- [x] Estruturas Condicionais (`if`, `else if`, `else`, `switch`)
+- [x] Operador Ternário
+- [ ] Estruturas de Repetição (Próximo passo...)
+
+
+## 🎯 Objetivo Final
+Dominar o ecossistema Java para desenvolvimento de APIs robustas com **Spring Boot** e arquitetura de microsserviços.
