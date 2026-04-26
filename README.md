@@ -17,8 +17,13 @@ Repositório dedicado ao estudo da linguagem Java, seguindo a metodologia do cur
 - [x] Operador Ternário
 - [x] Estruturas de Repetição
 - [x] Modificadores de Laço
-- [x] Arrays (Vetores) 
-- [ ] Arrays Multidimensionais (Matrizes) - Próximo Passo...
+- [x] Arrays (Vetores)
+- [x] Arrays Multidimensionais (Matrizes)
+
+### 2. Orientação a Objetos (Em breve...)
+- [ ] Introdução a Classes e Objetos
+- [ ] Métodos e Parâmetros
+- [ ] Sobrecarga de Métodos e Construtores
 
 ## 🎯 Objetivo Final
 Dominar o ecossistema Java para desenvolvimento de APIs robustas com **Spring Boot** e arquitetura de microsserviços.
