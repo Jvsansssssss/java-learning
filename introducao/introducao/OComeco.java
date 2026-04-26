@@ -1,4 +1,4 @@
-package academy.devdojo.maratona_java.introducao;
+package introducao;
 
 /**
  * Esse é um javadoc

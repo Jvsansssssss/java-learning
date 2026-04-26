@@ -1,4 +1,4 @@
-package academy.devdojo.maratona_java.introducao;
+package introducao;
 
 public class PredioDeEscritorios {
     public static void main(String[] args) {
