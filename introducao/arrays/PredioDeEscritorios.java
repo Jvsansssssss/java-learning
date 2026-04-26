@@ -1,4 +1,4 @@
-package introducao;
+package arrays;
 
 public class PredioDeEscritorios {
     public static void main(String[] args) {

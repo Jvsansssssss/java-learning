@@ -1,4 +1,4 @@
-package introducao;
+package fundamentos;
 
 public class TiposPrimitivosExercicios {
     public static void main(String[] args) {

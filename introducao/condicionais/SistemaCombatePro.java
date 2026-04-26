@@ -1,4 +1,4 @@
-package introducao;
+package condicionais;
 
 public class SistemaCombatePro {
     public static void main(String[] args) {

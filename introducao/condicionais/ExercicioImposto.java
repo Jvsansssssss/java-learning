@@ -1,4 +1,4 @@
-package introducao;
+package condicionais;
 
 public class ExercicioImposto {
     public static void main(String[] args) {

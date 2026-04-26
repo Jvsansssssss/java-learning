@@ -1,4 +1,4 @@
-package introducao;
+package condicionais;
 
 public class SistemaDeFerreiro {
     public static void main(String[] args) {

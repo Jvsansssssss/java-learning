@@ -1,4 +1,4 @@
-package introducao;
+package fundamentos;
 
 /**
  * Esse é um javadoc

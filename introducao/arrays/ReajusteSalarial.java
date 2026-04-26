@@ -1,4 +1,4 @@
-package introducao;
+package arrays;
 
 public class ReajusteSalarial {
     public static void main(String[] args) {

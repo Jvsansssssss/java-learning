@@ -1,4 +1,4 @@
-package introducao;
+package operadores;
 
 public class SistemaDeRecompensas {
     public static void main(String[] args) {
