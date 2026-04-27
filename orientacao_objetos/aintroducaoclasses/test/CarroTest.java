@@ -4,21 +4,9 @@ import aintroducaoclasses.dominio.Carro;
 
 public class CarroTest {
     public static void main(String[] args) {
-        Carro carro1 = new Carro();
-        Carro carro2 = new Carro();
-        Carro carro3 = new Carro();
-
-        carro1.nome = "Fusca";
-        carro1.modelo = "Volkswagen";
-        carro1.ano = 1950;
-
-        carro2.nome = "Chevette";
-        carro2.modelo = "Chevrolet";
-        carro2.ano = 1992;
-
-        carro3.nome = "iX3";
-        carro3.modelo = "BMW";
-        carro3.ano = 2026;
+        Carro carro1 = new Carro("Fusca", "Volkswagen", 1950);
+        Carro carro2 = new Carro("Chevette", "Chevrolet", 1992);
+        Carro carro3 = new Carro("iX3", "BMW", 2026);
 
         Carro[] carros = {carro1, carro2, carro3};
 
