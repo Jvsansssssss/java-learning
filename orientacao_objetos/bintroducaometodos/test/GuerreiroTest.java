@@ -8,5 +8,6 @@ public class GuerreiroTest {
         mana.setMana(0);
         System.out.println("Mana atual: " + mana.getMana());
         mana.ManaStatus();
+
     }
 }
