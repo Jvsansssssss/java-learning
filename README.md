@@ -20,10 +20,15 @@ Repositório dedicado ao estudo da linguagem Java, seguindo a metodologia do cur
 - [x] Arrays (Vetores)
 - [x] Arrays Multidimensionais (Matrizes)
 
-### 2. Orientação a Objetos 
+### 2. Orientação a Objetos
 - [x] Introdução a Classes e Objetos
 - [x] Métodos e Parâmetros
-- [ ] Sobrecarga de Métodos e Construtores (Em breve...)
+- [x] Sobrecarga de Métodos
+- [x] Construtores e Sobrecarga de Construtores
+- [x] Blocos de Inicialização (Instância e Estático)
+- [x] Modificador Static (Atributos e Métodos)
+- [ ] Modificador Final (Em breve...)
+- [ ] Associação entre Objetos (Em breve...)
 
 ## 🎯 Objetivo Final
 Dominar o ecossistema Java para desenvolvimento de APIs robustas com **Spring Boot** e arquitetura de microsserviços.
